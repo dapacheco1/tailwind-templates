@@ -1,11 +1,4 @@
 export const Pricing = `
-<button class="theme-btn" data-color="indigo" >Indigo</button>
-<button class="theme-btn" data-color="emerald">Emerald</button>
-<button class="theme-btn" data-color="gray">Default</button>
-<button class="theme-btn" data-color="amber">Amber</button>
-<button class="theme-btn" data-color="teal">Teal</button>
-<button class="theme-btn" data-color="blue">Blue</button>
-<button class="theme-btn" data-color="violet">Violet</button>
 <div class="w-full h-full bg-secondary-100 p-4">
         <main class="w-full flex flex-col items-center gap-4">
             <section class="flex flex-col items-center">
