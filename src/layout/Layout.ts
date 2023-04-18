@@ -10,13 +10,6 @@ export const Layout = `
             <button class="w-auto theme-btn rounded-full px-3 py-2 flex  border flex-row items-center gap-2" data-color="blue"><span class="block w-2 h-2 bg-blue-500 rounded-full"></span> Blue</button>
             <button class="w-auto theme-btn rounded-full px-3 py-2 flex  border flex-row items-center gap-2" data-color="violet"><span class="block w-2 h-2 bg-violet-500 rounded-full"></span> Violet</button>
         </div>
-        <nav>
-            <ul>
-                <li class="page-btn" data-link="error">
-                    Go to 404
-                </li>
-            </ul>
-        </nav>
         <div id="main"></div>
     </div>
 `;
